@@ -1,1 +1,1 @@
-NNSC staff control website. Publish index.html and .nojekyll through GitHub Pages. The backend and OAuth secret belong on the private VM, never in this repository.
+NNSC staff website V18.1. Publish these three files to the root of nonamesportingclub/nnsc-control. The existing private backend is unchanged. Never upload credentials or private bot files.
